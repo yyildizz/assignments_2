@@ -9,7 +9,7 @@ public class Question_1 {
 		
 		int count = 100;
 		System.out.println("the value of the count is "+ count);
-		
+		int Count;
 		
 		
 	}

@@ -22,6 +22,9 @@ public class Question_10 {
 	
 	System.out.println(hour + ":" + minute + ":" + second + " " + amOrPm);
 	
+
+
+
 	}
 
 }
